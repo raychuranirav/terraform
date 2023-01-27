@@ -1,0 +1,5 @@
+#  TERRAFORM IGNORE
+*.tfstate
+*.tfstate.backup
+.terraform
+settings.json
